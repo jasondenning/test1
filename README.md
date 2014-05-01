@@ -1,4 +1,4 @@
 test1
 =====
 
-Test repo for training folks
+Test repo for training people
